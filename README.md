@@ -1,0 +1,14 @@
+# lynx_beta-user 16 BP31.250610.004 13769805 release-keys
+- manufacturer: google
+- platform: gs201
+- codename: lynx
+- flavor: lynx_beta-user
+- release: 16
+- id: BP31.250610.004
+- incremental: 13769805
+- tags: release-keys
+- fingerprint: google/lynx_beta/lynx:16/BP31.250610.004/13769805:user/release-keys
+- is_ab: true
+- brand: google
+- branch: lynx_beta-user-16-BP31.250610.004-13769805-release-keys
+- repo: google_lynx_dump
