@@ -1,0 +1,14 @@
+# lynx-user 16 BP3A.251105.015 14339231 release-keys
+- manufacturer: google
+- platform: gs201
+- codename: lynx
+- flavor: lynx-user
+- release: 16
+- id: BP3A.251105.015
+- incremental: 14339231
+- tags: release-keys
+- fingerprint: google/lynx/lynx:16/BP3A.251105.015/14339231:user/release-keys
+- is_ab: true
+- brand: google
+- branch: lynx-user-16-BP3A.251105.015-14339231-release-keys
+- repo: google_lynx_dump
