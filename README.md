@@ -1,0 +1,14 @@
+# generic_system_google-user 16 BP4A.260105.004.E1 14587043 release-keys
+- manufacturer: google
+- platform: gs201
+- codename: lynx
+- flavor: generic_system_google-user
+- release: 16
+- id: BP4A.260105.004.E1
+- incremental: 14587043
+- tags: release-keys
+- fingerprint: google/lynx/lynx:16/BP4A.260105.004.E1/14587043:user/release-keys
+- is_ab: true
+- brand: google
+- branch: generic_system_google-user-16-BP4A.260105.004.E1-14587043-release-keys
+- repo: google_lynx_dump
